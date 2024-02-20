@@ -1,0 +1,24 @@
+/* 
+  selector id #
+  selector clase .
+  selector de tag (nombre de la etiqueta input, textarea, h1, table)
+*/
+
+#titulo {
+  color: red;
+  font-size: 24px;
+}
+
+.titulo {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#titulo, .titulo {
+
+}
+
+section section div > p {
+  color: pink;
+}
+
